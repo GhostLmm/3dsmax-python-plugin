@@ -1,0 +1,1 @@
+"D:\Program Files\autodesk\3ds Max 2016\python\python.exe" "D:\Program Files\JetBrains\PyCharm 2018.1\helpers\pydev\pydevd.py" --cmd-line --multiproc --qt-support=auto --client 127.0.0.1 --port 59845 --file E:/code/3dsmax/start.py
